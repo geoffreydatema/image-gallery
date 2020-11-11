@@ -1,0 +1,23 @@
+Objectives
+
+The goal of this exercise is to build a dynamic image gallery which adds the necessary HTML elements to a document in order to display images from a folder on your computer. A responsive design is expected.
+
+This is quite a fast, straightforward assignment, therefore it mainly serves the purpose of testing attention to detail, previously obtained knowledge, and clean coding skills.
+
+Requirements
+
+    The HTML file must contain nothing other than the structure described in HTMLStructure.jpg
+
+    Using JavaScript, insert all the HTML elements necessary to build a grid-based image gallery
+
+    Store the image names you intend to use in an array
+
+    Keep the images reasonably small in filesize (~100 KB)
+
+    Shuffle the array using the sort() method. Use the function described in RandomSort.jpg as an argument to sort(), however it must be implemented as an arrow function
+
+    When a gallery image is clicked, it must link to the image itself
+
+    Set all styles and attributes dynamically with JavaScript
+    
+    Add a header and footer of your choice for the page
