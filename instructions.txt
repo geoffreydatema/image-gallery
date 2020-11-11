@@ -1,8 +1,9 @@
 Objectives
 
-The goal of this exercise is to build a dynamic image gallery which adds the necessary HTML elements to a document in order to display images from a folder on your computer. A responsive design is expected.
+    The goal of this exercise is to build a dynamic image gallery which adds the necessary HTML elements to a document in order to display images from a folder on your computer. A responsive design is expected.
 
-This is quite a fast, straightforward assignment, therefore it mainly serves the purpose of testing attention to detail, previously obtained knowledge, and clean coding skills.
+    This is quite a fast, straightforward assignment, therefore it mainly serves the purpose of testing attention to detail, previously obtained knowledge, and clean coding skills.
+
 
 Requirements
 
